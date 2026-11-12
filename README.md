@@ -13,5 +13,23 @@ PCB
 
 <img width="237" height="350" alt="image" src="https://github.com/user-attachments/assets/33577e3a-a908-42a9-9eab-4ff37fad1c2c" />
 
+# BOM
+
+
+| Item | Quantity | Total Cost | Source |
+| :--- | :---: | :---: | :--- |
+| Raspberry Pi Pico | 1 | $4.50 | Robu |
+| 3.7V 1000mAh battery | 1 | $1.60 | Hubtronics |
+| TP4056 module | 1 | $0.15 | Robu |
+| 2.42in OLED screen | 1 | $15.00 | Zbotic |
+| 10uF 0603 capacitor | 2 | $0.10 | Robu |
+| 0.1uF 0603 capacitor | 2 | $0.10 | Robu |
+| 100k 0603 resistor | 2 | $0.10 | Robu |
+| 4.7k 0603 resistor | 2 | $0.10 | Robu |
+| PTS 647 push buttons | 40 | $5.50 | Robu |
+| SS14 Schottky diode | 1 | $0.10 | Robu |
+| SOD-523 diode | 40 | $0.20 | Robu |
+| PCM12SMTR slide switch | 1 | $0.60 | Robu |
+| PCB | 1 | $4.00 | JLCPCB |
 
 
