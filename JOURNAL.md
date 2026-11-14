@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) ([open the project](https://halflife.hackclub.com/projects/cp0o3lp88wewsei8eb1y40in)). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> a scientific calculator running on a raspberry pi pico
+> a scientific calculator running on a raspberry pi pico, with 40 buttons, a 2.42in oled screen, 3.7v lipo battery and tp4056 module.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |

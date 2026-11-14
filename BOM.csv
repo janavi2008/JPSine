@@ -1,14 +1,7 @@
-Item,quantity,total cost,source
-Raspberry PI Pico,1,$4.5,Robu
-3.7v 1000mAh battery,1,$1.60,hubtronics
-TP4056 module,1,$0.15,Robu
-2.42in oled screen,1,$15,zbotic
-10uf 0603 capacitor,2,$0.1,Robu
-0.1uf 0603 capacitor,2,$0.1,Robu
-100k 0603 resistor,2,$0.1,Robu
-4.7k 0603 resistor,2,$0.1,Robu
-PTS 647 push buttons,40,$5.5,Robu
-SS14 Schottkey diode,1,$0.1,Robu
-SOD-523 diode,40,$0.2,Robu
-PCM12SMTR slide switch,1,$0.6,Robu
-PCB,1,$4,jlcpcb
+Item,Qty,Supplier,Cost/item,Total Cost,link
+raspberry pi pico,1,robu,$4.50,$4.50,https://robu.in/product/raspberry-pi-pico/
+3.7V 1000mAh battery,1,hubtronics,$1.60,$1.60,https://hubtronics.in/kp-403450-3-7v-1000mah-lipo-rechargeable-battery?gad_source=4&gad_campaignid=24029996130&gbraid=0AAAAAD07y2drCWyfgJvMU6YgRULtF6i8b&gclid=Cj0KCQiA5NXXBhDEARIsABAJhdJapeDCyddXMp-ioU3rb889MrdV-3t9sOU6ObDjQmneNHDfYGzD7ggaAskqEALw_wcB
+2.42in oled screen,1,zbotic,$15.00,$15.00,https://zbotic.in/product/waveshare-2-42inch-oled-display-module-c/
+TP4056 module,1,robu,$0.15,$0.15,https://robu.in/product/tp4056-1a-li-ion-lithium-battery-charging-module-with-current-protection-type-c/
+"buttons, diodes, resistors, capacitors",1,robu,$7.50,$7.50,https://robu.in
+Estimated total shipping,1,,,$0.00,
